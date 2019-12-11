@@ -3,6 +3,8 @@
 A simple Javascript game that players click to spin the arrow and whoever the arrow points at has to do the challange.
 This project was built using HTML/CSS & JS.
 
+[View Game](https://rossgoodliffe.github.io/spin-the-bottle/)
+
 Best played on a device that can be placed screen up in the middle of a group
 
 ### How to Play
