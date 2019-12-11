@@ -13,5 +13,5 @@ Best played on a device that can be placed screen up in the middle of a group
 
 
 #### Extras to add
- *Add a timer/alarm that starts when a timed challange is displayed
- *Ability to add custom forfeits when starting
+ * Add a timer/alarm that starts when a timed challange is displayed
+ * Ability to add custom forfeits when starting
