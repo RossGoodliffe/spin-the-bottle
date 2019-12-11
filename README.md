@@ -9,7 +9,7 @@ Best played on a device that can be placed screen up in the middle of a group
   * Place your device in the middle of your circle
   * Click the spin button
   * A challange will then pop up that needs to be completed
-  * Once challange has been completed the user clicks refresh and then spin again.
+  * Once challange has been completed the user clicks refresh and then spin again
 
 
 #### Extras to add
