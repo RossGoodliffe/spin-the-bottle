@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="Spin the bottle JS drinking game" content="Spin the bottle style game with forfeits">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="styles.css">
+
+        <title>Drinking Spinner</title>
+    </head>
+    <body>
+        <!-- Main Container -->
+        <div class="container">
+
+            <!-- Arrow Image -->
+            <div class="img-container">
+                <img src="arrow.png" id="arrow" alt="">
+            </div>
+
+            <!-- Spin Button -->
+            <div class="btn-container">
+                <button class="btn neon" id="btn" onclick="startAnimation()" >Spin</button>
+            </div>
+            
+            <!-- Pop Up -hidden -->
+            <div class="message-container hidden" id="pop-up">
+                <p id="challange">This is where the pop-up message will be displayed</p>
+                <button class="refresh-btn neon" onClick="refreshBtn()">Refresh</button>
+            </div>
+                
+            <!-- End of Main Container -->
+        </div>
+        
+        <!-- JS -->
+        <script src="app.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    </body>
+</html>
